@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e59494,100:ffe0e0&height=180&text=Fullstack%20Web&animation=fadeIn&fontColor=f5f5f5&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e59494,100:ffe0e0&height=180&text=Hello%20&animation=fadeIn&fontColor=f5f5f5&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 소개 </h2>  
